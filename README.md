@@ -4,7 +4,7 @@
 
 A personal blog built with [Beautiful Jekyll](https://beautifuljekyll.com/), hosted on GitHub Pages. I write about the things that move me — songs, movies, books, and the occasional tech topic.
 
-📖 **Live blog → [badrrelghazaoui.github.io](https://badrrelghazaoui.github.io/)**
+📖 **Live blog → [MoonDiscoveries.com](https://MoonDiscoveries.com/)**
 
 ---
 
@@ -31,10 +31,9 @@ I started this blog for a few simple reasons:
 
 ## Featured Posts
 
-- **[Casanegra (2008) — The Sleepless City](https://badrrelghazaoui.github.io/2026-04-24-Casanegra/)** — A deep character analysis of the iconic Moroccan film
-- **[Sufjan Stevens — Mystery of Love](https://badrrelghazaoui.github.io/2026-04-26-Mystery-of-love/)** — On love, loss, and a cold night in a dorm room
-- **[Amr Diab — Qusad Einy](https://badrrelghazaoui.github.io/2026-04-27-Amr-Diab-Qusad-Einy/)** — True love from the darkest of places
-- **[Chimères — le casino dont on ne revient jamais](https://badrrelghazaoui.github.io/2026-04-14-Chim%C3%A8res-le-casino-dont-on-ne-revient-jamais/)** — A 10 DH book from the medina that was worth far more
+- **[Casanegra (2008) — The Sleepless City](https://moondiscoveries.com/2026-04-24-Casanegra/)** — A deep character analysis of the iconic Moroccan film
+- **[Sufjan Stevens — Mystery of Love](https://moondiscoveries.com/2026-04-26-Mystery-of-love/)** — On love, loss, and a cold night in a dorm room
+- **[Amr Diab — Qusad Einy](https://moondiscoveries.com/2026-04-27-Amr-Diab-Qusad-Einy/)** — True love from the darkest of places
 
 ---
 
