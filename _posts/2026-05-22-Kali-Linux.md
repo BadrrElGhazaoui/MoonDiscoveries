@@ -7,7 +7,7 @@ tags: [cybersecurity, kali linux, hacking, linux, IT]
 share-img: assets/img/wp2601077-kali-linux-wallpaper-1920x1080.png
 ---
 <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
- <b>PS:</b> Kali Linux Cheat Sheet Available now <b><a href="https://www.scribd.com/document/1060878547/Kali-Linux-Cheat-Sheet?_gl=1*cyratp*_up*MQ..*_ga*MTMyNDQ3NTgzNC4xNzgzODAwNjE5*_ga_Z4ZC50DED6*czE3ODM4MDA2MTckbzEkZzAkdDE3ODM4MDA2MTckajYwJGwwJGgw*_ga_8KZ8BV0P5W*czE3ODM4MDA2MTckbzEkZzAkdDE3ODM4MDA2MTckajYwJGwwJGgw" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
+ <b>PS:</b> Kali Linux Cheat Sheet Available now <b><a href="https://www.scribd.com/document/1060878547/Kali-Linux-Cheat-Sheet" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
 </p>
  <img style="width:100%; height:auto;" alt="Mr robot" src="https://github.com/user-attachments/assets/240c385e-260f-44bd-b8f8-8a8318050823" />
 <p>
