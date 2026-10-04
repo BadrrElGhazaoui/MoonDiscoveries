@@ -16,7 +16,7 @@ categories: Games
   <ul>
     <li>
       Kino Der Toten: One of the most famous zombies maps out there, my favorite map of course. 
-       <img style="width:100%; height:auto;" alt="zombieskino1-1024x576" src="https://github.com/user-attachments/assets/c641b4e0-3c43-4606-9593-ba30405701be" />
+       <img style="width:100%; height:auto;" alt="Call of Duty Black Ops" src="/assets/img/wp3964657-call-of-duty-black-ops-1-wallpapers.jpg" />
    </li>
     <li>
       Five : For me, the hardest map in BO1. It has a nice twist with the scientist who steals your weapons, but if you kill him you get pack a punch for a 1000 per weapon and max ammo.
