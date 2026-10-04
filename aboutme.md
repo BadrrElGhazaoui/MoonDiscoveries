@@ -13,9 +13,9 @@ share-img:
   <figcaption style="text-align: center; font-style: italic; color: #555; margin-top: 6px;">Badr El Ghazaoui</figcaption>
 </figure>
 </p>
-<p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
-<b>PS:</b>My opinions on the discussed topics aren't sacred. It is not the full truth, it is just what I think . 
- Find out more at my portfolio : BadrElGhazaoui.com
+<p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;">
+<b>PS:</b> My opinions on the discussed topics aren't sacred. It is not the full truth, it is just what I think.
+ Find out more about me on my portfolio: <a href="https://badrelghazaoui.com" rel="me" target="_blank">Badr El Ghazaoui, international management student and writer</a>.
 </p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
 I don't know if I am meant for more, or less. For everything,or nothing. What I know is I will keep trying as long as I am alive and this blog is my testimony, even if no one sees it.
