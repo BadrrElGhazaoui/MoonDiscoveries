@@ -36,19 +36,16 @@ I started this blog for a few simple reasons:
 - **[Amr Diab — Qusad Einy](https://moondiscoveries.com/2026-04-27-Amr-Diab-Qusad-Einy/)** — True love from the darkest of places
 
 ---
-
-## Built With
-
-- [Jekyll](https://jekyllrb.com/) — Static site generator
-- [Beautiful Jekyll](https://beautifuljekyll.com/) — Theme by Dean Attali
-- [GitHub Pages](https://pages.github.com/) — Free hosting
   
 ## Contact
 
 Feel free to reach out — I'm open to conversations about anything on the blog.
 
 - 📧 [badr@moondiscoveries.com](mailto:badr@moondiscoveries.com)
-- 💼 [LinkedIn](https://linkedin.com/in/badr-el-ghazaoui-914b963a3)
+- 🌐 Portfolio: <a href="https://badrelghazaoui.com" rel="me">badrelghazaoui.com</a>
+- 💼 <a href="https://linkedin.com/in/badr-el-ghazaoui-914b963a3" rel="me">LinkedIn</a>
+- 💻 <a href="https://github.com/BadrrElGhazaoui" rel="me">GitHub</a>
+- 📸 <a href="https://instagram.com/badr.elghazaoui" rel="me">Instagram</a>
 ---
 
 *Opinions here are mine and mine alone — not sacred, not absolute. Just thoughts.*
