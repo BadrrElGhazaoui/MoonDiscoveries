@@ -10,8 +10,8 @@
 ############################
 
 # Name of website
-title: Badr El Ghazaoui
-description: "A personal blog by Badr El Ghazaoui — reviews of songs, movies, books, games, and IT/Cybersecurity topics from a Moroccan perspective."
+title: Moon Discoveries
+description: "Moon Discoveries is a personal blog by Badr El Ghazaoui, international management student at ESTICE (Lille): reviews of songs, movies, books, games, and IT topics from a Moroccan perspective. Portfolio: badrelghazaoui.com"
 url: "https://moondiscoveries.com"
 # Your name to show in the footer
 author: Badr El Ghazaoui
@@ -27,6 +27,7 @@ navbar-links:
   Movies: "category/Movies"
   Songs: "category/Songs"
   Games: "category/Games"
+  Portfolio: "https://badrelghazaoui.com"
 
 ################
 # --- Logo --- #
