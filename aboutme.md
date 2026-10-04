@@ -9,7 +9,7 @@ share-img:
 <br>Came a man named Badr who dug a well between Mekka and Medina (Saoudi Arabia), that well will be used centuries later to win one of the biggest Battles in Islamic History : The Battle of Badr . 
 <br>Nearly 2 millenniums later, the name of that battle will be used to name this guy:<br>
  <figure style="margin: 0;">
-  <img style="width:100%; height:auto;" alt="ChatGPT Image Jun 28, 2026, 09_09_07 AM" src="https://github.com/user-attachments/assets/eb0abd15-7ccd-4947-8246-f9bd9cc5cec3" />
+ <img style="width:100%; height:auto;" alt="Badr El Ghazaoui" src="/assets/img/Badr%20El%20Ghazaoui.PNG" />
   <figcaption style="text-align: center; font-style: italic; color: #555; margin-top: 6px;">Badr El Ghazaoui</figcaption>
 </figure>
 </p>
