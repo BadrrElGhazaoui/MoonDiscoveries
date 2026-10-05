@@ -1,0 +1,203 @@
+/* =========================================================
+   MOON DISCOVERIES — CUSTOM DESIGN
+   ========================================================= */
+
+/* ---------- GENERAL ---------- */
+
+body {
+  background: #F4F8FC;
+  color: #263238;
+}
+
+p {
+  line-height: 1.7;
+}
+
+
+/* ---------- NAVBAR ---------- */
+
+.navbar-custom {
+  background: #1D4F7A;
+  border-bottom: 0;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+  color: #FFFFFF;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-nav .nav-link:hover {
+  color: #9DD2FF;
+}
+
+
+/* ---------- CENTER LOGO ---------- */
+
+/* Make the logo cleaner and slightly smaller */
+.navbar-custom.top-nav-regular .avatar-container {
+  width: 5.2rem;
+  bottom: -1.55rem;
+}
+
+/* Your image already has its own background,
+   so don't add the old circular shadow */
+.navbar-custom .avatar-container .avatar-img-border {
+  box-shadow: none !important;
+}
+
+.navbar-custom .avatar-container .avatar-img {
+  border-radius: 18px !important;
+  box-shadow: none !important;
+}
+
+
+/* ---------- HOMEPAGE HERO ---------- */
+
+.intro-header {
+  margin-top: 5.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.intro-header .page-heading h1 {
+  color: #1D4F7A;
+  font-size: 4.2rem;
+  letter-spacing: -0.04em;
+  margin-bottom: 0.5rem;
+}
+
+.intro-header .page-heading .page-subheading {
+  color: #6C89A3;
+  font-size: 1.05rem;
+  letter-spacing: 0.28rem;
+  text-transform: uppercase;
+}
+
+
+/* ---------- BLOG LIST ---------- */
+
+.posts-list {
+  max-width: 1050px;
+  margin: 0 auto;
+}
+
+.post-preview {
+  padding: 2.8rem 0;
+  border-bottom: 1px solid #DCE7F0;
+}
+
+
+/* ---------- POST TITLES ---------- */
+
+.post-preview .post-title {
+  color: #1D4165;
+  font-size: 2rem;
+  line-height: 1.15;
+  margin-bottom: 0.55rem;
+}
+
+.post-preview a:hover .post-title {
+  color: #2878C8;
+}
+
+
+/* ---------- DATE ---------- */
+
+.post-preview .post-meta {
+  color: #7890A5;
+  font-size: 1rem;
+}
+
+
+/* ---------- EXCERPT ---------- */
+
+.post-preview .post-entry {
+  color: #52616B;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+
+/* ---------- READ MORE ---------- */
+
+.post-preview .post-read-more {
+  color: #2878C8;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.post-preview .post-read-more:hover {
+  color: #155A9C;
+}
+
+
+/* ---------- POST THUMBNAILS ---------- */
+
+/* Put thumbnails on the LEFT like the preview */
+.post-preview .post-image-short {
+  float: left;
+  margin-left: 0;
+  margin-right: 2rem;
+  margin-top: 0.2rem;
+  width: 19rem;
+  height: 13rem;
+}
+
+.post-preview .post-image-short img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+
+/* Remove grayscale effect */
+.post-preview .post-image {
+  filter: none;
+}
+
+.post-preview .post-image:hover {
+  filter: none;
+}
+
+
+/* ---------- FOOTER ---------- */
+
+footer {
+  background: #E8F1F8;
+  border-top: 1px solid #D6E4F0;
+}
+
+
+/* ---------- MOBILE ---------- */
+
+@media (max-width: 767px) {
+
+  .intro-header {
+    margin-top: 4rem;
+  }
+
+  .intro-header .page-heading h1 {
+    font-size: 2.8rem;
+  }
+
+  .intro-header .page-heading .page-subheading {
+    font-size: 0.8rem;
+    letter-spacing: 0.15rem;
+  }
+
+  .post-preview {
+    padding: 2rem 0;
+  }
+
+  .post-preview .post-title {
+    font-size: 1.7rem;
+  }
+
+  .post-preview .post-image-short {
+    float: none;
+    width: 100%;
+    height: 12rem;
+    margin: 0 0 1.5rem 0;
+  }
+}
