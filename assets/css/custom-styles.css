@@ -32,25 +32,27 @@ p {
 }
 
 
-/* ---------- CENTER LOGO ---------- */
+/* ===== NAVBAR LOGO ===== */
 
-/* Make the logo cleaner and slightly smaller */
 .navbar-custom.top-nav-regular .avatar-container {
-  width: 5.2rem;
-  bottom: -1.55rem;
+  width: 4.2rem;
+  bottom: -1.05rem;
+  z-index: 10;
 }
 
-/* Your image already has its own background,
-   so don't add the old circular shadow */
 .navbar-custom .avatar-container .avatar-img-border {
+  border: none !important;
   box-shadow: none !important;
+  padding: 0 !important;
 }
 
 .navbar-custom .avatar-container .avatar-img {
-  border-radius: 18px !important;
+  width: 4.2rem !important;
+  height: 4.2rem !important;
+  object-fit: contain;
+  border-radius: 0 !important;
   box-shadow: none !important;
 }
-
 
 /* ---------- HOMEPAGE HERO ---------- */
 
@@ -131,73 +133,42 @@ p {
 }
 
 
-/* ---------- POST THUMBNAILS ---------- */
+/* ===== POST THUMBNAILS ===== */
 
-/* Put thumbnails on the LEFT like the preview */
 .post-preview .post-image-short {
   float: left;
-  margin-left: 0;
-  margin-right: 2rem;
-  margin-top: 0.2rem;
-  width: 19rem;
-  height: 13rem;
+  width: 220px;
+  height: 140px;
+  margin: 0 2rem 0.75rem 0;
+  border-radius: 12px;
+  overflow: hidden;
 }
 
 .post-preview .post-image-short img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 10px;
+  border-radius: 12px;
+  display: block;
 }
 
-
-/* Remove grayscale effect */
-.post-preview .post-image {
-  filter: none;
+/* Post text */
+.post-preview .post-entry {
+  font-size: 1.02rem;
+  line-height: 1.65;
 }
 
-.post-preview .post-image:hover {
-  filter: none;
+.post-preview .post-title {
+  font-size: 1.9rem;
+  line-height: 1.2;
 }
 
-
-/* ---------- FOOTER ---------- */
-
-footer {
-  background: #E8F1F8;
-  border-top: 1px solid #D6E4F0;
-}
-
-
-/* ---------- MOBILE ---------- */
-
+/* Mobile */
 @media (max-width: 767px) {
-
-  .intro-header {
-    margin-top: 4rem;
-  }
-
-  .intro-header .page-heading h1 {
-    font-size: 2.8rem;
-  }
-
-  .intro-header .page-heading .page-subheading {
-    font-size: 0.8rem;
-    letter-spacing: 0.15rem;
-  }
-
-  .post-preview {
-    padding: 2rem 0;
-  }
-
-  .post-preview .post-title {
-    font-size: 1.7rem;
-  }
-
   .post-preview .post-image-short {
     float: none;
     width: 100%;
-    height: 12rem;
+    height: 180px;
     margin: 0 0 1.5rem 0;
   }
 }
