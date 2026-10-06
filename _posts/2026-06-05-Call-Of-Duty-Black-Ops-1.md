@@ -9,7 +9,7 @@ categories: Games
 <p>
   One of the legendary games out there, COD for me isn't just a game, it's a childhood. Zombies, is the most famous mode of this franchise, let us see why!
 </p>
- <img style="width:100%; height:auto;" alt="Call of Duty Black Ops" src="/assets/img/wp3964657-call-of-duty-black-ops-1-wallpapers.jpg" /
+ <img style="width:100%; height:auto;" alt="Call of Duty Black Ops" src="/assets/img/wp3964657-call-of-duty-black-ops-1-wallpapers.jpg" />
 <p><b>Maps</b></p>
 <p>
   The first two free maps, are the BEST! 
@@ -30,24 +30,24 @@ categories: Games
   <ul>
     <li>
       Wall Weapons: You Buy them in the wall for a certain price. Best One is the MP40, worth 1250 can kill Zombies and Hell Hounds:
-       <img style="width:100%; height:auto;" alt="wall weapons" src="assets/img/wall.jpeg"
+       <img style="width:100%; height:auto;" alt="wall weapons" src="assets/img/wall.jpeg">
   </li>
       <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
         The Box isn't in a specific location, there are several in the map but only one is activated for you to use ( Buy-In for 950 ) . The Green Light indicates where the Box is : 
-         <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg"
+         <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg">
       </p>
 <li> Box Weapons: You Open the Mystery Box and wait for a certain gun to come out. The best Box Weapons are :
-      <img style="width:100%; height:auto;" alt="five" src="assets/img/box weapons.webp"
+      <img style="width:100%; height:auto;" alt="five" src="assets/img/box weapons.webp">
 </li>
       <li> Ray Gun: It's a good gun but I always end up killing myself with it. 
-         <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg"
+         <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg">
     <li>
       Thundergun: Very Powerful, few amunition but very powerful and used against a bunch of zombies:
-     <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg"
+     <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg">
   </li>
     <li>
       Commando: Best Weapon, My favourite, you just spam it, you feel zombies dying at your point. When pack a punched, it becomes the BEST weapon in COD History.
-       <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg"
+       <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg">
   </li>
   </ul>
 </p>
