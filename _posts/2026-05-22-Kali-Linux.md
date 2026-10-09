@@ -9,18 +9,18 @@ share-img: assets/img/wp2601077-kali-linux-wallpaper-1920x1080.png
 <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
  <b>PS:</b> Kali Linux Cheat Sheet Available now <b><a href="https://www.scribd.com/document/1060878547/Kali-Linux-Cheat-Sheet" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
 </p>
- <img style="width:100%; height:auto;" alt="Mr robot" src="https://github.com/user-attachments/assets/240c385e-260f-44bd-b8f8-8a8318050823" />
+ <img style="width:100%; height:auto;" alt="Mr robot" src="/assets/img/kalilinux.jpeg" />
 <p>
   This is a scene from the most famous hacker show on planet earth : Mr Robot. Elliot, the protagonist, uses an operating system called Kali Linux. Let's see what it's about.
 </p>
-<img style="width:100%; height:auto;" alt="wp2601077-kali-linux-wallpaper-1920x1080" src="https://github.com/user-attachments/assets/cc5a515c-9d5f-46b5-bcbc-0bbd73368aa2" />
+<img style="width:100%; height:auto;" alt="/assets/img/wp1810654-mr-robot-wallpapers.jpg" />
 <p><b>History</b></p>
 <p>
   In 2006 the company Offensive Security, Merged two prior security Operating Systems, Whax and Auditor Security Collection.
-<img style="width:100%; height:auto;" alt="auditor-label-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/fb3766c3-6512-4177-8c63-f24626af8240" />
-<img style="width:100%; height:auto;" alt="whax-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/2a92d2b3-fa0d-4b6e-a38d-4d9cc4d27796" />
+<img style="width:100%; height:auto;" alt="auditor-label-Picsart-AiImageEnhancer" src="/assets/img/auditor.png" />
+<img style="width:100%; height:auto;" alt="whax-Picsart-AiImageEnhancer" src="/assets/img/whax.webp" />
 They merged these two to give us Backtrack Linux: 
- <img style="width:100%; height:auto;" alt="wp2884619-backtrack-wallpaper-hd" src="https://github.com/user-attachments/assets/1f235c39-2b58-4c2b-9ecb-48b7fcc6c411" />
+ <img style="width:100%; height:auto;" alt="wp2884619-backtrack-wallpaper-hd" src="/assets/img/backtrack.jpeg" />
  Based on Backtrack, Offensive Security rebuilt it from scratch and realsed Kali Linux on 2013 as we know it today. 
  They made Major changes such as going from Ubuntu to Debian, better hardware support and easier package management.<br>
  The name Kali came from the Hindu goddess of power and destruction.
@@ -32,15 +32,15 @@ Kali Linux gathered the best hacking tools out there, that's the purpose of crea
  <li>
   Nmap: The Swiss Army Knife of networking, it scans hosts, identifies ports, services, operating systems and much more. Basically you stroll around the target's network. Read my other post on this
   <b> <a href="https://moondiscoveries.com/2026-04-30-Nmap/" rel="noopener noreferrer" style="color: black; text-decoration: none;">Here</a> </b>
- <img style="width:100%; height:auto;" alt="589106546-37444018-41ad-4cc5-ae4d-2454e0cd8a2c" src="https://github.com/user-attachments/assets/6f82f9f0-0249-42a9-8555-03fe3396214c" />
+ <img style="width:100%; height:auto;" alt="589106546-37444018-41ad-4cc5-ae4d-2454e0cd8a2c" src="/assets/img/nmap.jpg" />
  </li>
   <li>
    Metasploit Framework: A Penetration testing tool used to exploit vulnerabilities in a system. It has a LOT of payloads,exploit,nops and much more.
-   <img style="width:100%; height:auto;" alt="4839747" src="https://github.com/user-attachments/assets/dba589cb-9b83-4fb7-929b-45519df341fc" />
+   <img style="width:100%; height:auto;" alt="4839747" src="/assets/img/metasploit.jpeg" />
   </li>
   <li>
    John The Ripper: Yes it's named after the famous serial killer, it's a Password cracking tool that uses brute force.
-   <img style="width:100%; height:auto;" alt="wp16044873-john-the-ripper-wallpapers" src="https://github.com/user-attachments/assets/20d2272c-52d1-4685-86a3-6e141ad93ebd" />
+   <img style="width:100%; height:auto;" alt="wp16044873-john-the-ripper-wallpapers" src="/assets/img/jacktherippper.jpg" />
 
   </li>
  </ul>
@@ -51,7 +51,7 @@ Kali Linux gathered the best hacking tools out there, that's the purpose of crea
  <ul>
   <li>
    Virtual Box : It's like another computer in your computer. You run two operating systems in your computer. download <b><a href="https://www.kali.org/get-kali/#kali-virtual-machines" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
- <img style="width:100%; height:auto;" alt="wp12298051-virtualbox-wallpapers" src="https://github.com/user-attachments/assets/ff0ac6af-a8a8-49e8-82d5-a79e961a6276" />
+ <img style="width:100%; height:auto;" alt="wp12298051-virtualbox-wallpapers" src="/assets/img/virtualbox.png" />
   </li>
   <li>
    Normal Os: Use Kali as your principal Operating system. you download the installer Image on your Usb and Install it on your computer <b><a href="https://www.kali.org/get-kali/#kali-installer-images" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b>
