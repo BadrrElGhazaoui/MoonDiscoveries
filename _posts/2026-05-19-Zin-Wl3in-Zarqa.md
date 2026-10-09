@@ -15,9 +15,9 @@ The original version is mostly called "L'Américain" by Houcine Slaoui. But I pr
 <audio controls style="width: 100%; margin: 20px 0;">
   <source src="/assets/z.mp3" type="audio/mpeg">
 </audio>
- <img style="width:100%; height:auto;" alt="Zin ou l3ayn zer9a-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/4329394d-4345-4e1e-9426-6e2590be511d" />
+ <img style="width:100%; height:auto;" alt="Zin ou l3ayn zer9a-Picsart-AiImageEnhancer" src="/assets/img/zaynoul3aynzar9a.jpeg" />
 <p><b>History</b></p>
-  <img style="width:100%; height:auto;"  alt="6e82dbfea54bd75612d9165c4d66d16e20171107011627_thumb_565-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/94482ffb-deeb-437d-9f21-6c00ae164829" />
+  <img style="width:100%; height:auto;"  alt="6e82dbfea54bd75612d9165c4d66d16e20171107011627_thumb_565-Picsart-AiImageEnhancer" src="/assets/img/6e82dbfea54bd75612d9165c4d66d16e20171107011627_thumb_565-Picsart-AiImageEnhancer.jpg" />
 <p>
   The song is originally about the 1942 American military landing in Morocco, Operation Torch. American Soldiers landed in Casablanca, Kenitra, Safi and Tangier. Most Moroccans in that era was their first time seeing Americans, tall with blue/green eyes and charming smiles. There the song was born.
 </p>
