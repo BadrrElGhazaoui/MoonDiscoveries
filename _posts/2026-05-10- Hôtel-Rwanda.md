@@ -11,7 +11,7 @@ readtime: true
   <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
     <b>PS:</b>The movie is based on real events that occurred in 1994, Rwanda. It's carved in mankind's history as : 100 days of murder.
   </p>
-<img style="width:100%; height:auto;" alt="wp7931046-hotel-rwanda-wallpapers" src="https://github.com/user-attachments/assets/57e8c44a-9e60-4eb3-892b-ef173cfd3b0a" />
+<img style="width:100%; height:auto;" alt="wp7931046-hotel-rwanda-wallpapers" src="/assets/img/wp7931138-hotel-rwanda-wallpapers.jpg" />
 <p><b>History</b></p>
 <p>1916, Rwanda was handed to belgium after the collapsing of Germany after WW1. Nearly two decades later, 1933. Belgium introduces
 ethnicity cards classifying the ethnic groups of Rwanda. The Hutu (~85% of the country's population), The Tutsi (~15%) and the Twa (~1%)
@@ -22,14 +22,14 @@ the Hutu are farmers and underclass workers.</p>
  <b>PS:</b>When Belgians began dividing the country, they used extreme mesures to really devide people. Even tho you can't basically tell if
  someone is a Tutsi or a Hutu by eye, Belgium found a way...
  </p>
- <img style="width:100%; height:auto;" alt="belgians in rwanda-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/97f0dd25-e7f2-4f68-9d19-bdb429695aa5" />
+ <img style="width:100%; height:auto;" alt="belgians in rwanda-Picsart-AiImageEnhancer" src="/assets/img/belgium.jpeg" />
 <p>By 1959, most colonial powers began leaving Africa, including Belgium. That's when years of ethnic division gave it's fruits 
 and a Hutu revolution was to be. Thousands of Tutsi murdered, most have fled to neighbor countries. This lasted until 1962 when Rwanda had its independence with a Hutu government.<br>
 Came 1990, the exiled Tutsi formed what is known as the RPF (Rwandan Patriotic Front). Civil war erupts and northern Rwanda is taken by the RPF.</p>
-<img style="width:100%; height:auto;"  alt="960px-RwandaTerritoryAfterFeb1993" src="https://github.com/user-attachments/assets/4f794666-247a-4cd9-a20a-a7ed1d28dbd1" />
+<img style="width:100%; height:auto;"  alt="960px-RwandaTerritoryAfterFeb1993" src="/assets/img/Rwanda.png" />
 <p>1993.This is when everything begins. The Hutu president signed the Arusha Accords, a peace treaty with the RPF. On the other hand a Hutu extremists group called the interhamwe opposes this considering it weakness.
 This same militia started what would be called later the darkest radio station in world history : RTLM (Radio Télévision Libre des Mille Collines) . <br> 6 April 1994, the president's plane is shut down over the capital Kigali. The Genocide begins.</p>
-<img style="width:100%; height:auto;" alt="5647c0221a78ec2a2bf13e7e9f6dbac87c82e407" src="https://github.com/user-attachments/assets/2bcff839-2c9c-4de5-98a8-e1ac86ab9370" />
+<img style="width:100%; height:auto;" alt="5647c0221a78ec2a2bf13e7e9f6dbac87c82e407" src="/assets/img/plane.jpeg" />
 <p><b>Story</b></p>
 <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
   <b>PS:</b>Not only the movie's historical events are real but our protagonist's story too is real and occured at the time. The international hero: Paul Rusesabagina 
@@ -50,12 +50,12 @@ Paul's personality shifts when he understands that his whole life, he's been sta
  <b>Paul:</b>I cannot leave these people to die
   </blockquote>
 </p>
-<img style="width:100%; height:auto;" alt="gettyimages-51819060-e60b470066aa6d144b04ee3160c1114eb867ccb7" src="https://github.com/user-attachments/assets/5323db62-467d-4cd1-978b-1823787a1876" />
+<img style="width:100%; height:auto;" alt="gettyimages-51819060-e60b470066aa6d144b04ee3160c1114eb867ccb7" src="/assets/img/picactors.jpeg" />
 <p><b>Tatiana</b></p>
 <p>I don't know if it's love or insanity, but Tatiana . She is a Tutsi, she tells paul to take the children and run away. In other words, she sacrificies herself for her family. Amidst all the war, Paul takes Tatiana to the hotel's roof for a last romantic supper. It resembles love inside warzones,genocides around the globe. She promised him if the Interahamwe gets to them, she will kill herself and the kids. She didn't. Lastly, I wanna applaud the actor Sophie Okonedo for the marvelous role she did. </p>
 <img style="width:100%; height:auto;" alt="wmremove-transformed" src="https://github.com/user-attachments/assets/571a70ee-d8b5-44f7-87fe-dc0cc12d3c45" />
 <p><b>United Nations</b></p>
 <p>While the UN is supposed to help countries around the world, when the Rwandan Genocide occurs, instead of increasing the fire power of UN officers, they reduced it by more than half. Even when Europe send an " intervention" force, it comes only to rescue  their citizens. Colonel Olivier is a UN officer in the movie. After the intervention force announce that they are going to extract only europeans. He can't even look paul in the eyes, he explains that for Europe, Africa is just a trash can. We know he has a morals, aside from that we know he saves lives not because he is UN, because he is human. You can see it in him. </p>
-<img style="width:100%; height:auto;"  alt="MV5BYjMwYWE1MDktNWFjNS00OWE3LTk1ZWItYmVhNzEwMjJiZTYyXkEyXkFqcGc@ _V1_" src="https://github.com/user-attachments/assets/520e11c2-bdc3-4e2a-a65a-8b0bab7d0574" />
+<img style="width:100%; height:auto;"  alt="MV5BYjMwYWE1MDktNWFjNS00OWE3LTk1ZWItYmVhNzEwMjJiZTYyXkEyXkFqcGc@ _V1_" src="/assets/img/UN.jpeg" />
 <p><b>Conclusion</b></p>
 <p>To everyone who watches this movies, this is no ordinary one. It's a piece of art, it tells a story, that millions lived and still live to this day. Even tho paul's adventure has a happy ending, many didn't. The only message I want the world to know is to be kind, be gentle, be human.</p>
