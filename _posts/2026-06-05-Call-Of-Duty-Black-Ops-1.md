@@ -75,19 +75,19 @@ categories: Games
   <ul>
     <li>
       Quick Revive: If you play solo, it revives you if you die. If you play co-up, you can revive your teamate in a lower time than usual. Costs 500 in Solo and 1500 in Co-Up
-       <img style="width:100%; height:auto;" alt="QR_Shangri-La" src="https://github.com/user-attachments/assets/981dd1dd-2bbe-47b9-a342-72ef63a729e9" />
+       <img style="width:100%; height:auto;" alt="QR_Shangri-La" src="/assets/img/quick.jpeg" />
   </li>
     <li>
       Speed Cola: Reload your weapon faster, helps a lot to be honest. If you get used to it, you won't like the normal speed. And if you have a heavy gun, you HAVE to get it, costs 3000.
-      <img style="width:100%; height:auto;" alt="Speed_cola" src="https://github.com/user-attachments/assets/bc24f2dd-ea38-4e76-b4b5-26e49c3b8244" />
+      <img style="width:100%; height:auto;" alt="Speed_cola" src="/assets/img/speed.jpeg" />
   </li>
     <li>
       Jugger-Nog: If you normally die in 2 attacks from Zombies, with this you die within 5 or 6. Basically, more health.
- <img style="width:100%; height:auto;" alt="mqdefault" src="https://github.com/user-attachments/assets/baa63251-28c1-4f79-8483-c5539344b329" />
+ <img style="width:100%; height:auto;" alt="mqdefault" src="/assets/img/juggernog.webp9" />
   </li>
     <li>
       Double Tap: If you shoot 40 from your ammo box with a commando, you shoot 80 with Double Tap. It doubles your shooting ammo.
-      <img style="width:100%; height:auto;" alt="Double_tap_rootbeer" src="https://github.com/user-attachments/assets/ef60e292-c976-4a81-aa87-d08d5d19b67d" />
+      <img style="width:100%; height:auto;" alt="Double_tap_rootbeer" src="/assets/img/doubletap.webp" />
   </li>
   </ul>
 </P>
@@ -97,19 +97,19 @@ categories: Games
   <ul>
     <li>
       Max Ammo: Says what it does. Please Reload before taking it. 
-     <img style="width:100%; height:auto;" alt="MaxAmmo_Model_BO7" src="https://github.com/user-attachments/assets/0616a0ce-0f1d-4063-a525-04478a6e6671" />
+     <img style="width:100%; height:auto;" alt="MaxAmmo_Model_BO7" src="/assets/img/maxammo.webp" />
    </li>
     <li>
       Nuke : Kills everyone on the map, you will really need it on round 30 and Upper. Especially if you don't have ammo.
-      <img style="width:100%; height:auto;" alt="images steamusercontent" src="https://github.com/user-attachments/assets/e9905ca7-a0d2-48f9-b380-4b3518c3a0a9" />
+      <img style="width:100%; height:auto;" alt="images steamusercontent" src="/assets/img/nuke.webp" />
    </li>
     <li>
       Double Points: It doubles the money (points) you get when killing Ennemies.
-       <img style="width:100%; height:auto;" alt="0tf7yxo21w541" src="https://github.com/user-attachments/assets/209bec27-5f2c-4d6d-878f-c81d1debbfc1" />
+       <img style="width:100%; height:auto;" alt="0tf7yxo21w541" src="/assets/img/doublepoints.webp" />
   </li>
     <li>
       Clock-Turn: Closes all the windows in the map.
-       <img style="width:100%; height:auto;" alt="clock" src="https://github.com/user-attachments/assets/64213fcd-bcb5-4560-8e53-299412d4f099" />
+       <img style="width:100%; height:auto;" alt="clock" src="/assets/img/clockturn.webp" />
   </li>
     
   </ul>
@@ -117,7 +117,7 @@ categories: Games
 <p><b>115</b></p>
 <p>
   A song you activate by finding these 3 items in the Map. The song is named 115, it made by Kevin Sherwood. 
-  <img style="width:100%; height:auto;" alt="115" src="https://github.com/user-attachments/assets/5a8cd215-5bba-478b-9070-3ae2c6f07eaf" />
+  <img style="width:100%; height:auto;" alt="115" src="/assets/img/115.webpf" />
 </p>
 <p><b>Conclusion</b></p>
 <p>One of the best things in Zombies is the door mechanisime, You don't get the full map from the begenning. You have something to work for, I hope you play the game and enjoy it!</p>
