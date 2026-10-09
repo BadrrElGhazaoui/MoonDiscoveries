@@ -16,11 +16,11 @@ categories: Games
   <ul>
     <li>
       Kino Der Toten: One of the most famous zombies maps out there, my favorite map of course. 
-       <img style="width:100%; height:auto;" alt="Kino" src="assets/img/kino.jpg" />
+       <img style="width:100%; height:auto;" alt="Kino" src="/assets/img/kino.jpg" />
    </li>
     <li>
       Five : For me, the hardest map in BO1. It has a nice twist with the scientist who steals your weapons, but if you kill him you get pack a punch for a 1000 per weapon and max ammo.
-      <img style="width:100%; height:auto;" alt="five" src="assets/img/five.webp" />
+      <img style="width:100%; height:auto;" alt="five" src="/assets/img/five.webp" />
    </li>
   </ul>
 </p>
@@ -30,14 +30,14 @@ categories: Games
   <ul>
     <li>
       Wall Weapons: You Buy them in the wall for a certain price. Best One is the MP40, worth 1250 can kill Zombies and Hell Hounds:
-       <img style="width:100%; height:auto;" alt="wall weapons" src="assets/img/wall.jpeg">
+       <img style="width:100%; height:auto;" alt="wall weapons" src="/assets/img/wall.jpeg">
   </li>
       <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
         The Box isn't in a specific location, there are several in the map but only one is activated for you to use ( Buy-In for 950 ) . The Green Light indicates where the Box is : 
-         <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg">
+         <img style="width:100%; height:auto;" alt="five" src="/assets/img/kino.jpg">
       </p>
 <li> Box Weapons: You Open the Mystery Box and wait for a certain gun to come out. The best Box Weapons are :
-      <img style="width:100%; height:auto;" alt="five" src="assets/img/box weapons.webp">
+      <img style="width:100%; height:auto;" alt="five" src="/assets/img/box weapons.webp">
 </li>
       <li> Ray Gun: It's a good gun but I always end up killing myself with it. 
          <img style="width:100%; height:auto;" alt="five" src="assets/img/kino.jpg">
