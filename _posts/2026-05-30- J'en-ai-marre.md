@@ -12,7 +12,7 @@ readtime: true
 <p style="background-color: #F0E7D5; padding: 10px; border-left: 4px solid #333;"> 
 PS: I didn't write for the past week, I took my Eid Vacation .
 </p>
- <img style="width:100%; height:auto;" alt="Najat aatbou" src="https://github.com/user-attachments/assets/8da9e5a8-36f1-43bf-bd4e-79a705b9d017" />
+ <img style="width:100%; height:auto;" alt="Najat aatbou" src="/assets/img/Najat aatbou.jpeg" />
 <p><b>Story</b></p>
 <p>
   Najat Aatabou, one of the many pillars that held/still hold Moroccan music/tradition on their backs.<br>
