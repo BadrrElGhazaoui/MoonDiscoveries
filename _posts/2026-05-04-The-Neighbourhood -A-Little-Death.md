@@ -10,11 +10,11 @@ tags: [songs, the neighbourhood, indie, music review, poetry]
 I think that's the only moment where everyone would wish death to arrive. A poet known as Majnun Layla really did,and he said:
 <i>"If only your grave were mine,
 if our funerals could share the same earth."</i></p>
-<img style="width:100%; height:auto;" alt="artworks-KDyfoXuGfOAA-0-t500x500" src="https://github.com/user-attachments/assets/ca4bc8f5-4e8b-4e17-bf4a-73a3e20dc73a" />
+<img style="width:100%; height:auto;" alt="artworks-KDyfoXuGfOAA-0-t500x500" src="/assets/img/artworks-KDyfoXuGfOAA-0-t500x500.jpg" />
 <p><b>Context</b></p>
 <p>The song's title "A Little Death" is a reference to a French saying <i>"la petite mort"</i> — it means the sensation you feel after an orgasm: relaxation, dizziness, and a kind of loss of consciousness, all described as a little death.</p>
 <p>Jesse Rutherford, the lead vocalist and creative heart of The Neighbourhood, discovered he had total color blindness, which is why most of the album is black and white. I think the little death after an orgasm can give light and color to his life — it may seem sexual, but it's the happiest you will ever be, especially if you love the person you are with.</p>
-<img style="width:100%; height:auto;" alt="wp3653875-jesse-rutherford-wallpapers" src="https://github.com/user-attachments/assets/a0cff2e1-3359-4d2e-af7d-5c70ed2902a0" />
+<img style="width:100%; height:auto;" alt="wp3653875-jesse-rutherford-wallpapers" src="/assets/img/jesse.jpg" />
 <P><B>Lyrics</B></P>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
   Vacancy was lit, the guests were checking in<br>
