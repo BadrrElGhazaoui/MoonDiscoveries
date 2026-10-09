@@ -9,12 +9,12 @@ readtime: true
 <p>
   Before I began this blog I had another one hosted on blogger. I began blogging because of Mashrou'Leila, not their songs but what they stand for. I will take you today on a review of my favourite song in their album Ibn El Leil. Enjoy!
 </p>
-<img style="width:100%; height:auto;" alt="Mashrou leila" src="https://github.com/user-attachments/assets/abdf51e7-0bba-4c85-8c1d-5860d426f168" />
+<img style="width:100%; height:auto;" alt="Mashrou leila" src="/assets/img/Mashrou leila.jpg" />
 <p><b>Context</b></p>
 <p>
   Mashrou'Leila is a Lebanese music group made at first by students in the American University in Beirut for a study project, that's why its called project of a night, kind of a last minute project. Years passed and they became one of the most successful musical groups in the arab world. Comes 2022 and the group splits mainly because of public harassment and death threats because of Hamed Sinno's (the lead singer) queerness, yes an arab group has a gay lead singer isn't that cool? well it's all flowers until you hear about Sarah Hegazi's story.
 </p>
-<img style="width:100%; height:auto;"  alt="ibn leil" src="https://github.com/user-attachments/assets/f1572bcc-9668-453b-b9d2-b6ede8ba5a35" />
+<img style="width:100%; height:auto;"  alt="ibn leil" src="/assets/img/ibnleil.jpeg" />
 <p><b>Album's Story</b></p>
 <p>
   The band said they created Ibn El Leil to speak about Beirut's night life (if you don't know, for the arab world beirut is the gay capital, a LOT of gays from all over the place take refuge in there. You can see a documentary <b><a href="https://www.youtube.com/watch?v=_DQYwBhgOxk&pp=ygUVZG9jdW1lbnRhcnkgZ2F5IGFyYWJz" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">here</a></b> <br>
@@ -53,12 +53,12 @@ readtime: true
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
   <p>And I was erased (and I was erased)<br> from the history books as if it were your history (and your identity)<br> with our thighs we translated the verses of Sappho and Abu Nuwas in the language of sighs<br> on the sheets we embroidered them with the sighs we chanted at the protests</p>
 </blockquote>
-<img style="width:100%; height:auto;" alt="sappho_abunuwas" src="https://github.com/user-attachments/assets/9910dada-f35c-4b98-ad75-e4c198abb509" />
+<img style="width:100%; height:auto;" alt="sappho_abunuwas" src="/assets/img/abonawas.jpeg" />
 <p>Some LGBTQ+ history here: <uL>
 <li>Sappho: the poet who inspired the term sapphics, that we use to call lesbians today. She had a major role in revealing lesbian life to the world at 630-570 B.C . Here poems are still present to this day and read by many.</li>
   <li>Aboû Nouwâs: One of the most famous Arab poets of the Abbasid era, he was known at first by drinking, loving boys and mocking God. After that he made a lot of poems repenting for what he believed were his "sins". No one knows how he died.</li>
 </uL></p>
-<img style="width:100%; height:auto;" alt="sarah hegazi" src="https://github.com/user-attachments/assets/edbea972-383f-432d-93ef-576b54874e2f" />
+<img style="width:100%; height:auto;" alt="sarah hegazi" src="/assets/img/sarah.jpeg" />
 <p><b>Sarah Hegazi</b></p>
 <p>
   In 2017, Sarah attended a mashrou'leila concert in Cairo, she raised the LGBTQ+ flag which is strictly forbidden in all of the Arab World let alone Egypt. After the concert she was arrested by Egyptians authorities, and she reported that she was abused while in custody. Really abused <br>
@@ -69,7 +69,7 @@ readtime: true
 After she was released , she came out to death threats from the public, harassment and social isolation. She did what 90% of Queer Arabs do, asylum. Canada (of course) granted her the asylum and she began fighting Egyptian organizations from there while blogging and speaking for the Queer community. 
 
 In 2020, the world was shocked by the news of Sarah's suicide in the age of 30. She left a note, here it is:
-<img style="width:100%; height:auto;" alt="102707356_3665640923463681_5927422838921700075_o" src="https://github.com/user-attachments/assets/a576e974-ab3f-46a5-b11a-50d18738d7df" />
+<img style="width:100%; height:auto;" alt="102707356_3665640923463681_5927422838921700075_o" src="/assets/img/message.jpeg" />
 </p>
 <blockquote style="border-left: 4px solid #ccc; padding: 10px 20px; color: #555; font-style: italic; margin: 20px 0;">
 To my siblings – I tried to find redemption and failed, forgive me. To my friends – the experience [journey] was harsh and I am too weak to resist it, forgive me. To the world – you were cruel to a great extent, but I forgive.
