@@ -29,6 +29,7 @@ navbar-links:
     - Movies: "category/Movies"
     - Songs: "category/Songs"
     - Games: "category/Games"
+    - Politics : "category/Politics"
   Portfolio: "https://badrelghazaoui.com"
 
 ################
