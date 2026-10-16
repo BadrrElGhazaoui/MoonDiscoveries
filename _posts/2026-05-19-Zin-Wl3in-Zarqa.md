@@ -1,8 +1,8 @@
 ---
-title: الزين و العين الزرقة
+title: "الزين والعين الزرقة"
 share-img: assets/img/6e82dbfea54bd75612d9165c4d66d16e20171107011627_thumb_565-Picsart-AiImageEnhancer.jpg
-description: "A review of one of Morocco's most beloved folk songs, originally called L'Américain by Houcine Slaoui. Its history, meaning, and why it still moves people today."
-tags: [moroccan music, arabic music, houcine slaoui, folk, songs]
+description: "Explore the history and meaning of the Moroccan folk song “الزين والعين الزرقة,” also known as “L’Américain,” by Houcine Slaoui, inspired by the 1942 Operation Torch landings."
+tags: [الزين والعين الزرقة, zin wl3in zarqa, l'americain, houcine slaoui, moroccan music, moroccan folk music, arabic music, song history, operation torch, moroccan songs]
 categories: Songs
 readtime: true 
 ---
