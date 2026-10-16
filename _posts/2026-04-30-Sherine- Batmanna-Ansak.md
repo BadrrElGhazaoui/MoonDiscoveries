@@ -1,6 +1,8 @@
 ---
-title: Sherine - Batmanna Ansak
+title: Sherine’s “Batmanna Ansak”
 categories: Songs
+description: "A personal review of Sherine’s Arabic heartbreak song “Batmanna Ansak,” exploring its lyrics about lost love, longing, and the struggle to forget someone."
+tags: [sherine, batmanna ansak, بتمنى أنساك, arabic music, arabic pop, heartbreak song, song review, song meaning, love and loss]
 share-img: assets/img/batmanansak.jpg
 ---
 <P>
