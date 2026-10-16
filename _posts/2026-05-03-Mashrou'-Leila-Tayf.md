@@ -1,8 +1,8 @@
 ---
-title: Mashrou'Leila-Tayf
+title: Mashrou’ Leila’s “Tayf”
 categories: Songs
-description: "A review of Tayf by Mashrou' Leila from the album Ibn El Leil. Why this Lebanese band changed how I think about Arabic music — and why I started blogging."
-tags: [songs, mashrou leila, arabic music, lebanese music, music review]
+description: "A review and interpretation of Mashrou’ Leila’s “Tayf” from Ibn El Leil, exploring its lyrics, queer Arab identity, protest, and the legacy of Sarah Hegazi."
+tags: [mashrou leila, tayf, طيف, ibn el leil, arabic music, lebanese music, song review, song meaning, queer arab music, sarah hegazi]
 share-img: assets/img/Mashrou leila.jpg
 readtime: true
 ---
