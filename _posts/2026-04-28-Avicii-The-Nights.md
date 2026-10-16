@@ -1,6 +1,8 @@
 ---
-title:  Avicii - The Nights 
+title: "Avicii’s “The Nights”
 categories: Songs
+description: "A personal review of Avicii’s “The Nights,” exploring its message about making lasting memories, finding joy in everyday life, and living a life worth remembering."
+tags: [avicii, the nights, song review, song meaning, electronic music, edm, inspiration, memories]
 share-img: assets/img/AVICI.jpg
 readtime: true
 ---
