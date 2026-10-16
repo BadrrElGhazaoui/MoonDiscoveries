@@ -1,8 +1,8 @@
 ---
 title: Tobis - ساعة في الجحيم
 categories: Movies
-description: "A review of the Tobis episode from the legendary Moroccan series Sa3a Fi Aljahim (2008). Why this episode launched careers and still haunts viewers today."
-tags: [moroccan cinema, movies, series, sa3a fi aljahim, morocco]
+description: "A review and analysis of “Tobis” (طوبيس), an intense episode of the Moroccan series Sa3a Fi Aljahim (ساعة في الجحيم), exploring power, human behavior, and the Stanford Prison Experiment."
+tags: [tobis, طوبيس, sa3a fi aljahim, ساعة في الجحيم, moroccan television, moroccan series, moroccan drama, episode review, stanford prison experiment, film analysis]
 share-img: assets/img/sa3a-fi-ljahim.jpg
 readtime: true
 ---
