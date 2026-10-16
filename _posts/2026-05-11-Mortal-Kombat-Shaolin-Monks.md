@@ -1,5 +1,5 @@
 ---
-title: Mortal Kombat: Shaolin Monks
+title: "Mortal Kombat: Shaolin Monks"
 categories: Games
 description: "A review of Mortal Kombat: Shaolin Monks, the PS2 action-adventure starring Liu Kang and Kung Lao. Explore its co-op gameplay, boss fights, story, and retro appeal."
 tags: [mortal kombat shaolin monks, shaolin monks review, mortal kombat, ps2 games, playstation 2, co-op games, action adventure game, retro gaming, liu kang, kung lao]
