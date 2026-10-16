@@ -1,8 +1,8 @@
 ---
-title: Hôtel Rwanda (2004)
+title: Hotel Rwanda (2004)
 categories: Movies
-description: "A personal review of Hôtel Rwanda (2004), the true story of Paul Rusesabagina during the Rwandan genocide. A film that made me cry, laugh, and feel everything."
-tags: [movies, hotel rwanda, film review, true story, african cinema]
+description: "A personal review of Hotel Rwanda (2004), exploring Paul Rusesabagina’s story, the 1994 Rwandan genocide, and the film’s themes of courage, humanity, and international response."
+tags: [hotel rwanda, hotel rwanda review, 2004 film, terry george, paul rusesabagina, rwandan genocide, historical drama, african cinema, film analysis]
 share-img: assets/img/wp7931138-hotel-rwanda-wallpapers.jpg
 readtime: true
 ---
