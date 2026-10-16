@@ -1,5 +1,5 @@
 ---
-title: "Najat Aatabou’s J’en ai marre” 
+title: Najat Aatabou’s J’en ai marre
 categories: Songs
 description: "Discover the story and meaning of Najat Aatabou’s Moroccan classic “J’en ai marre,” including its Darija lyrics, French phrase origin, and themes of love, exhaustion, and loss."
 tags: [najat aatabou, j'en ai marre, جوني مار, moroccan music, moroccan folk music, darija, song meaning, song history, lyrics, love song]
