@@ -1,8 +1,8 @@
 ---
-title: Billie Eilish-Wildflower
+title: Billie Eilish – “WILDFLOWER”
 categories: Songs
-description: "A personal review of Wildflower by Billie Eilish. Why this song hits differently from everything else she's made, and what it really means."
-tags: [songs, billie eilish, pop, music review, wildflower]
+description: "A personal review of Billie Eilish’s “WILDFLOWER,” exploring its emotional vocals, memorable lyrics, and story of friendship, heartbreak, and freedom."
+tags: [billie eilish, wildflower, song review, song meaning, pop music, lyrics, vocals]
 share-img: assets/img/wildfo.jpg
 readtime: true
 ---
