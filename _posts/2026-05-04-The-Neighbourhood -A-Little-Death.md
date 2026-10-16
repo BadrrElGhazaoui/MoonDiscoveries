@@ -1,10 +1,10 @@
 ---
-title: The Neighbourhood - A Little Death 
+title: The Neighbourhood’s “A Little Death” 
 categories: Songs
 share-img: assets/img/artworks-KDyfoXuGfOAA-0-t500x500.jpg
 readtime: true
-description: "A deep review of A Little Death by The Neighbourhood. What the song really means, its connection to Majnun Layla's poetry, and why it hits so hard."
-tags: [songs, the neighbourhood, indie, music review, poetry]
+description: "A review and interpretation of The Neighbourhood’s “A Little Death,” exploring its sensual imagery, the meaning of “la petite mort,” and its connection to Majnun Layla’s poetry."
+tags: [the neighbourhood, a little death, a little death meaning, song review, song interpretation, indie rock, la petite mort, majnun layla, love and desire]
 ---
 <p>Have you ever been with your lover in a closed room? Just you two loving each other, not caring about the whole world.
 I think that's the only moment where everyone would wish death to arrive. A poet known as Majnun Layla really did,and he said:
