@@ -117,7 +117,7 @@ categories: Games
 <p><b>115</b></p>
 <p>
   A song you activate by finding these 3 items in the Map. The song is named 115, it made by Kevin Sherwood. 
-  <img style="width:100%; height:auto;" alt="115" src="/assets/img/115.webpf" />
+  <img style="width:100%; height:auto;" alt="115" src="/assets/img/115.webp" />
 </p>
 <p><b>Conclusion</b></p>
 <p>One of the best things in Zombies is the door mechanisime, You don't get the full map from the begenning. You have something to work for, I hope you play the game and enjoy it!</p>
