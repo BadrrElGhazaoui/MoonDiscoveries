@@ -20,7 +20,7 @@ PS: I didn't write for the past week, I took my Eid Vacation .
   One day in one of those weddings, someone filmed her while singing this song "J'en ai marre", it blew up. Everyone began selling her recording in the black market.<br>
   Years later the first ever recording was born, in 1987. Here it is: 
   <audio controls style="width: 100%; margin: 20px 0;">
-  <source src="assets/Jen ai marre.mp3" type="audio/mpeg">
+  <source src="/assets/Jen ai marre.mp3" type="audio/mpeg">
 </audio>
 </p>
 <p><b>Lyrics</b></p>
